@@ -1,0 +1,16 @@
+	'AX' => __( '&#197;land Islands', 'woocommerce' ),
+
+	'BV' => __( 'Bouvet Island', 'woocommerce' ),
+	'IO' => __( 'British Indian Ocean Territory', 'woocommerce' ),
+	'GG' => __( 'Guernsey', 'woocommerce' ),
+	'HM' => __( 'Heard Island and McDonald Islands', 'woocommerce' ),
+	'BL' => __( 'Saint Barth&eacute;lemy', 'woocommerce' ),
+	'GS' => __( 'South Georgia/Sandwich Islands', 'woocommerce' ),
+	'SJ' => __( 'Svalbard and Jan Mayen', 'woocommerce' ),
+	'TL' => __( 'Timor-Leste', 'woocommerce' ),
+
+	'UM' => __( 'United States (US) Minor Outlying Islands', 'woocommerce' ),
+	'IM' => __( 'Isle of Man', 'woocommerce' ),
+	'JE' => __( 'Jersey', 'woocommerce' ),
+
+	
